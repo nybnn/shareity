@@ -1,0 +1,413 @@
+<?php
+  include './include/config.php';
+  include './include/partners.php';
+	include './include/use.php';
+  ?>
+<!DOCTYPE html>
+<html data-wf-page="5f808516414aa175e2ad7953" data-wf-site="5f808516326cd92adf25095c">
+
+<head>
+  <meta charset="utf-8">
+  <title>Causes</title>
+  <meta content="Causes" property="og:title">
+  <meta content="Causes" property="twitter:title">
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <meta content="Shareity" name="generator">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link href="/css/normalize.css" rel="stylesheet" type="text/css">
+  <link href="/css/webflow.css" rel="stylesheet" type="text/css">
+  <link href="/css/website.css" rel="stylesheet" type="text/css">
+  <link href="/css/responsive.css" rel="stylesheet" type="text/css">
+  <link href="/css/responsive-website.css" rel="stylesheet" type="text/css">
+  <link href="/css/shareity-com.webflow.css" rel="stylesheet" type="text/css">
+  <link href="/images/shareity.ico" rel="shortcut icon" type="image/x-icon">
+  <link href="/images/shareity.ico" rel="apple-touch-icon">
+  <link rel="stylesheet" type="text/css" href="/css/slick.css">
+  <link rel="stylesheet" href="/css/mediabox.css" type="text/css">
+  
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-G9V0502V0F"></script>
+  <!-- Google Tag Manager -->
+  <script>
+  (function(w, d, s, l, i) {
+    w[l] = w[l] || [];
+    w[l].push({
+      'gtm.start': new Date().getTime(),
+      event: 'gtm.js'
+    });
+    var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s),
+      dl = l != 'dataLayer' ? '&l=' + l : '';
+    j.async = true;
+    j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+    f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-5KXCKTT');
+  </script>
+  <!-- End Google Tag Manager -->
+
+  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+  <script type="text/javascript">
+  ! function(o, c) {
+    var n = c.documentElement,
+      t = " w-mod-";
+    n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n
+      .className += t + "touch")
+  }(window, document);
+  </script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+  gtag('config', 'G-G9V0502V0F');
+  </script>
+  <!-- Facebook Pixel Code -->
+  <script>
+  ! function(f, b, e, v, n, t, s) {
+    if (f.fbq) return;
+    n = f.fbq = function() {
+      n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+    };
+    if (!f._fbq) f._fbq = n;
+    n.push = n;
+    n.loaded = !0;
+    n.version = '2.0';
+    n.queue = [];
+    t = b.createElement(e);
+    t.async = !0;
+    t.src = v;
+    s = b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t, s)
+  }(window, document, 'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '464542611372585');
+  fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=464542611372585&ev=PageView&noscript=1" /></noscript>
+  <!-- End Facebook Pixel Code -->
+</head>
+
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5KXCKTT" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <!-- Menu  -->
+  <?php include $config->linkPath('menu'); ?>
+  <!-- Menu End -->
+
+  <!-- INTRO -->
+  <div class="int-back back-cau">
+    <div class="int-content" style="padding: 100px 0px;">
+      <div class="int-text">
+        <p>SOCIAL ACTION</p><br>
+        Create Awareness That Drives Action<br><br>
+        <p class="inline-p">
+          <strong>A new way to give:
+            <i style="color: #04ADED;">Volunteerism Meets Slacktivism</i>
+          </strong>
+        </p>
+      </div>
+      <ul>
+        <li class="nb-link-btn nb-items">
+          <a type="button" href="/book-a-demo" class="btn-nb-2 btn">Book a Demo</a>
+        </li>
+        <li class="nb-link-btn nb-items">
+          <a type="button" href="https://members.shareity.me/#/register" style="color:white" class="btn-nb-1 btn">Sign
+            Up for Free</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- BUILDING -->
+  <div class="nw-content-wrap">
+    <div class="nw-layout-grid about-grid nw-grid" style="">
+      <div id="w-node-1" class="w-node-causes">
+        <div class="nw-section-wrap">
+          <h3 class="nw-title">Exceed Fundraising Goals</h3>
+          <p class="nw-subt">
+            Provide a better Return On Donation/Investment (ROD/I) for your brand sponsors by converting social
+            responsibility initiatives into viral marketing campaigns.
+            What’s more is that 66% of donors worldwide say they would use a mobile app that allows two-tap giving
+            and earns badges and redeemable points.
+            Promote your initiatives through multiple social channels and use our detailed analytics to improve
+            your campaigns.
+          </p>
+        </div>
+      </div>
+      <img src="/images/cause-animat.gif" class="causes-animat">
+      <!-- <video playsinline="" muted="" loop="" preload="auto" autoplay="" id=" " 
+          style="position: relative; width: 60%;">
+              <source src="/images/causes-animat.gif" class="">
+      </video> -->
+    </div>
+  </div>
+  <!-- /.BUILDING -->
+
+  <!-- CAUSES BOX -->
+  <h2 class="label-web" style="color:#04ADED">Share Care Economy™</h2>
+  <section class="brands-box">
+    <ul class="brands-wrapper">
+      <?php foreach ($causicon as $data) { ?>
+      <li class="brands-list">
+        <div class="brands-category">
+          <div class="brands-cat-body">
+            <div class="brandsbox-img">
+              <img src="<?= $config->linkAsset('img/use/' . $data['img']); ?>">
+            </div>
+            <div class="brandsbox-title"><?= $data['title'] ?></div>
+          </div>
+        </div>
+      </li>
+      <?php } ?>
+    </ul>
+  </section>
+  <!-- /.BRANDS BOX -->
+
+  <!-- PUSH-BUTTON -->
+  <h2 class="label-web" style="">Push-Button Community</h2>
+  <div class="nw-content-wrap">
+    <div class="nw-layout-grid about-grid nw-grid" style="">
+      <video playsinline="" muted="" loop="" preload="auto" autoplay="" id="animatobj1" style="position: relative; width: 90%;">
+        <source src="/images/brands-animation.mp4" class="">
+      </video>
+      <div id="w-node-1"><div id="animatobj2">
+        <div class="nw-section-wrap" id=" ">
+          <p class="nw-subt">Build a first-party, GDPR compliant community linked to mobile phone numbers.
+            Your community grows via The Shareity Effect ™ as users share their challenge with friends and family.
+          </p>
+        </div>
+        <div class="nw-button-wrapper">
+          <a href="/book-a-demo" class="nw-button-link" role="button">
+            <span class="nw-button-content">
+              <span class="nw-button-text">Build your own community
+                <span  class="iconForward arrow"><i class="fas fa-long-arrow-alt-right">&#8594;</i></span>
+              </span>
+            </span>
+          </a>
+        </div></div>
+      </div>
+    </div>
+  </div>
+  <!-- /.PUSH-BUTTON -->
+
+  <!-- LOVE SH SECTION -->
+  <!-- <h2 class="label-web" style="">Why You’ll Love Shareity!</h2> -->
+  <div class="backfa">
+    <div class="nw-content-wrap">
+      <div class="nw-layout-grid about-grid nw-grid" style="">
+      <img src="/images/rewards-mockup.png" id="animatobj3" class="nw-image">
+        <div id="w-node-2"> <div id="animatobj4">
+          <div class="nw-section-wrap" id=" ">
+            <h3 class=" nw-title">Incentivize With Rewards</h3>
+            <p class="nw-subt">Reach back out to your community with rewards, ask for donations, or send a thank-you
+              message showing the impact made.</p>
+          </div>
+          <div class="nw-button-wrapper">
+            <a href="/how-it-works" class="nw-button-link" role="button">
+              <span class="nw-button-content">
+                <span class="nw-button-text">See How It Works
+                  <span  class="iconForward arrow"><i class="fas fa-long-arrow-alt-right">&#8594;</i></span>
+                </span>
+              </span>
+            </a>
+          </div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+  <!-- /.LOVE SH SECTION -->
+
+  <!-- ENDING -->
+  <div class="end-web">
+    <div class="end-content">
+      <div class="end-text">Join The Share Care Economy!<sup>TM</sup></div>
+      <ul>
+        <li class="nb-link-btn nb-items">
+          <a type="button" href="/book-a-demo" class="btn-nb-end2 btn">Book a Demo</a>
+        </li>
+        <li class="nb-link-btn nb-items">
+          <a type="button" href="https://members.shareity.me/#/register" style="color:white"
+            class="btn-nb-end1 btn">Sign Up For Free</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- PARTNERS CAROUSEL -->
+  <section class="container-slick" style="background-color: #FFFFFF; margin: 20px 0px;">
+    <div class="photobanner" style="filter: grayscale(1);">
+      <?php foreach ($partner as $partner) { ?>
+      <div class="web-part">
+        <a href="<?= $config->linkPartners($partner['link']); ?>" target="_blank">
+          <img src="<?= $config->linkAsset('img/partners/' . $partner['photo']); ?>">
+        </a>
+      </div>
+      <?php } ?>
+    </div>
+  </section>
+  <!-- /.PARTNERS CAROUSEL -->
+
+  <!--  footer -->
+  <?php include $config->linkPath('footer'); ?>
+  <!--  /footer -->
+
+  <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5f808516326cd92adf25095c"
+    type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous">
+  </script>
+  <script src="/js/webflow.js" type="text/javascript"></script>
+  <script>
+    window.addEventListener('scroll', function(){
+    let animatobj1 = document.getElementById('animatobj1');
+    let animatobj2 = document.getElementById('animatobj2');
+    let animatobj3 = document.getElementById('animatobj3');
+    let animatobj4 = document.getElementById('animatobj4');
+    
+    let positionObj1 = animatobj1.getBoundingClientRect().top;
+    let positionObj2 = animatobj2.getBoundingClientRect().top;
+    let positionObj3 = animatobj3.getBoundingClientRect().top;
+    let positionObj4 = animatobj4.getBoundingClientRect().top;
+
+    let sizeScreen = window.innerHeight;
+
+    //console.log(sizeScreen)
+    if (positionObj1 < sizeScreen){
+      animatobj1.style.animation = 'moveLeft 2s ease-out'
+    }
+    if (positionObj2 < sizeScreen){
+      animatobj2.style.animation = 'moveRight 2s ease-out'
+    }
+    if (positionObj3 < sizeScreen){
+      animatobj3.style.animation = 'moveRight 2s ease-out'
+    }
+    if (positionObj4 < sizeScreen){
+      animatobj4.style.animation = 'moveLeft 2s ease-out'
+    }
+  })
+  </script>
+  <script>
+  //   action button
+  function sendNewsletter() {
+    let newsletter = document.getElementById('newsletter')
+    let message = document.getElementById('message')
+
+    if (!validateEmail(newsletter.value)) {
+      message.innerText = '*invalid email'
+
+      setInterval(function() {
+        message.innerText = ''
+      }, 2000)
+
+      return false
+    } else {
+      fetchNewsletter(newsletter.value, message, newsletter)
+    }
+  }
+
+  // validate email
+  function validateEmail(email) {
+    let re = /\S+@\S+\.\S+/
+    if (email) {
+      return re.test(email)
+    } else {
+      return false
+    }
+  }
+  var apiUrl = 'https://apidev.shareity.com/api/web/user/newsletter?'
+
+  var domUrl = window.location.hostname;
+  if (domUrl == 'shareity.com') {
+    var apiUrl = apiUrl.replace('apidev', 'api');
+  }
+  //console.log('NUEVO:::::',apiUrl)
+  function fetchNewsletter(email, message, newsletter) {
+    fetch(apiUrl + new URLSearchParams('email=' + email), {
+        method: 'POST',
+      })
+      .then(function(response) {
+        if (response.ok) {
+          newsletter.value = ''
+          message.style.color = 'green'
+          message.innerText = 'Newsletter sent successfully'
+        } else {
+          throw 'ajax call failed';
+        }
+      })
+      .catch(function(err) {
+        console.log(err)
+      });
+  }
+  </script>
+
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous">
+  </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous">
+  </script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous">
+  </script>
+
+  <!-- Start of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/2675419.js"></script>
+  <!-- End of HubSpot Embed Code -->
+
+  <!-- Slick Carousel -->
+  <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+  <script type="text/javascript" src="/js/slick.min.js"></script>
+  <script type="text/javascript">
+  $(document).ready(function() {
+    $('.photobanner').slick({
+      slidesToShow: 5,
+      slidesToScroll: 1,
+      autoplay: true,
+      autoplaySpeed: 2000,
+      arrows: false,
+      dots: false,
+      pauseOnHover: false,
+      responsive: [{
+          breakpoint: 928,
+          settings: {
+            slidesToShow: 4
+          }
+        },
+        {
+          breakpoint: 768,
+          settings: {
+            slidesToShow: 3
+          }
+        },
+        {
+          breakpoint: 520,
+          settings: {
+            slidesToShow: 2
+          }
+        }
+      ]
+    });
+  });
+  </script>
+  <!--/.Slick Carousel -->
+
+  <script>
+    $('.nw-button-content').hover(
+      function() {
+          $('.fas').addClass('chgcolor')
+      },
+      function() {
+          $('.fas').removeClass('chgcolor')
+      }
+    )
+  </script>
+</body>
+
+</html>

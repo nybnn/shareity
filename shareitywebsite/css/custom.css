@@ -1,0 +1,713 @@
+/* width */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #0f8ae8;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #0f8ae89e;
+}
+.double-bounce1,
+.double-bounce2 {
+  background-color: #0f8ae8 !important;
+}
+
+.cfff,
+a {
+  color: #fff;
+}
+#loader {
+  background: #fff !important;
+}
+
+.he10vh {
+  height: 650px;
+}
+
+#hero-area .contents h1 {
+  font-weight: normal !important;
+}
+
+.block {
+  font-family: "GothamHTF-Light";
+  display: block;
+}
+#services {
+  background: url(../img/bg-2.png) fixed no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.center {
+  text-align: center;
+}
+.pc100 {
+  padding: 100px;
+}
+.c6f6f6f {
+  color: #6f6f6f !important;
+}
+
+.title-srs {
+  font-family: "GothamHTF-Light";
+  padding: 10px;
+  font-weight: bold;
+  font-size: 2em;
+}
+
+.indexpadi {
+  padding: 100px 0 0 !important;
+}
+
+.m-top {
+  margin-top: 45px;
+}
+
+.m-top-c {
+  margin-top: 25px;
+}
+
+.participant {
+  margin-top: 60px;
+}
+
+.is-donated {
+  margin-top: 50px;
+}
+
+.d-m-top {
+  margin-top: 40px;
+}
+
+/*causes*/
+
+.p-sponsorship-brands {
+  margin-top: 50px !important;
+}
+.p-participant {
+  margin-top: 45px !important;
+}
+.p-is-donated {
+  margin-top: 55px !important;
+}
+.p-brand-cause-message {
+  margin-top: 50px !important;
+}
+#pricing {
+  background-color: #f1f6f8;
+}
+
+.desc-srs {
+  color: #0f8ae8;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.top-nav-collapse .navbar-nav .nav-link:hover {
+  color: #0f8ae8 !important;
+}
+
+.top-nav-collapse .navbar-nav .nav-link.active {
+  color: #0f8ae8 !important;
+}
+
+.navbar-expand-lg .navbar-nav li a:hover,
+.navbar-expand-lg .navbar-nav li .active > a,
+.navbar-expand-lg .navbar-nav li a:focus {
+  color: #0f8ae8 !important;
+}
+
+.rsrs {
+  padding: 30px;
+}
+
+.tp70 {
+  padding: 20px;
+}
+
+.shareity-text {
+  font-size: 31px;
+}
+
+.counters {
+  background: url(../img/bg-v.png) fixed;
+}
+
+.c00BAF0 {
+  color: #00baf0;
+  font-weight: 600;
+}
+
+.fff {
+  color: #fff;
+  font-weight: 600;
+}
+
+.panel-rrss > li a {
+  color: #fff;
+  line-height: 30px;
+  font-size: 20px;
+}
+
+.t-a-left {
+  text-align: left !important;
+}
+
+.panel-rrss > li a:hover {
+  color: #0f8ae8;
+}
+
+footer {
+  background: url(../img/bg-2.png) fixed no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.frowp30 {
+  padding: 30px;
+}
+
+.fa-angle-down {
+  color: #fff;
+  font-size: 5em;
+}
+
+.slicknav_btn {
+  border-color: transparent;
+}
+
+.slicknav_menu .slicknav_icon-bar {
+  background: #464a4e !important;
+}
+
+.shareity-color {
+  color: rgb(35, 216, 250);
+}
+
+.c0F8AE8 {
+  color: #0f8ae8 !important;
+}
+
+b,
+strong {
+  font-weight: bold;
+}
+
+.footer-links li a:hover {
+  color: #0f8ae8;
+}
+
+.terms {
+  height: 90vh;
+  overflow-y: scroll !important;
+}
+
+.modal-open .modal {
+  height: 90vh;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+}
+
+.modal-open {
+  padding-right: 0 !important;
+}
+
+.modal {
+  top: 50px !important;
+}
+
+.modal-content {
+  padding: 50px;
+}
+.navbar .nav-link.active {
+  color: #0f81dd !important;
+  font-weight: bold;
+}
+
+.single-team {
+  background: #e9ecef3d !important;
+}
+
+.single-team .social-list li a {
+  color: #0f81dd !important;
+}
+.single-team .social-list a:hover {
+  color: #fff !important;
+}
+.section-header .lines {
+  margin: auto;
+  width: 70px;
+  position: relative;
+  border-top: 2px solid #0f81dd;
+  margin-top: 15px;
+}
+.pteam {
+  padding: 10px;
+}
+
+/*faq*/
+.accordion-section .panel-default > .panel-heading {
+  border: 0;
+  background: #f4f4f4;
+  padding: 0;
+}
+.accordion-section .panel-default .panel-title a {
+  display: block;
+  font-size: 1rem;
+}
+.accordion-section .panel-default .panel-title a:after {
+  font-family: "FontAwesome";
+  font-size: 2rem;
+  content: "\f106";
+  color: #1f7de2;
+  float: right;
+  margin-top: -12px;
+}
+.accordion-section .panel-default .panel-title a.collapsed:after {
+  content: "\f107";
+}
+.accordion-section .panel-default .panel-body {
+  font-size: 1.2rem;
+}
+
+a:hover,
+a:focus {
+  color: #0056b3;
+}
+
+.bg-brands {
+  background: url(../img/bg-brands.jpg) fixed no-repeat !important;
+  background-size: cover !important;
+  background-position: center !important;
+}
+.bg-causes {
+  background: url(../img/bg-causes.jpg) fixed no-repeat !important;
+  background-size: cover !important;
+  background-position: center !important;
+}
+
+.bg-features {
+  background: url(../img/bg-features.png) fixed no-repeat !important;
+  background-size: cover !important;
+  background-position: center !important;
+}
+
+.bg-about {
+  background: url(../img/about_us_background.jpg) fixed no-repeat !important;
+  background-size: cover !important;
+  background-position: center !important;
+}
+
+.bg-HowItWorks {
+  background: url(../img/HowItWorks.png) fixed no-repeat !important;
+  background-size: cover !important;
+  background-position: center !important;
+}
+.bg-faq {
+  background: url(../img/faq_background.jpg) fixed no-repeat !important;
+  background-size: cover !important;
+  background-position: center !important;
+}
+
+.height {
+  height: 100vh;
+}
+.newmtop {
+  margin-top: 150px;
+}
+.brands-btn {
+  border-radius: 15px !important;
+  background-image: linear-gradient(
+    12deg,
+    rgb(44, 153, 254),
+    rgb(0, 220, 246)
+  ) !important;
+}
+.move {
+position: relative;
+top: 55px;
+}
+
+.mt30 {
+  margin-top: 30px;
+}
+
+.ficon-snap {
+  width: 15%;
+}
+
+.d-m-30top {
+  margin-top: 30px;
+}
+
+.imgsize30 {
+  width: 30%;
+}
+
+.XR-Scavenger {
+  width: 30%;
+}
+.fbrands,
+.ffeat {
+  font-family: "GothamHTF-Light" !important;
+  font-size: 29px;
+}
+.snaprs {
+  font-size: 1.5em;
+}
+.btn {
+  padding: 10px 15px !important;
+}
+
+.bg-brands .contents {
+  height: 100vh;
+}
+
+#block {
+  background: url(../img/bg-brand.jpg) fixed no-repeat !important;
+  background-size: cover !important;
+  background-position: center !important;
+}
+
+.text-danger {
+  color: #000 !important;
+}
+
+#contact {
+  background-color: rgb(2, 130, 201);
+}
+.contact-section {
+  padding: 150px 0 50px;
+}
+
+.p52 {
+  padding: 25px;
+}
+
+.ffft {
+  color: #fff;
+}
+
+.no-app span {
+  display: block;
+}
+
+.fffts {
+  color: #fff;
+  font-size: 0.9em;
+  padding: 25px;
+}
+.space {
+  height: 40px;
+}
+
+#hero-area .contents .btn {
+  margin: 0 !important;
+}
+
+#section-items {
+  background: url(../img/bg-brand.jpg) fixed no-repeat !important;
+  background-size: cover !important;
+  background-position: center !important;
+}
+
+.new-size {
+  max-width: 70% !important;
+}
+
+.new-size-custom {
+  max-width: 68.5% !important;
+}
+.icon-share {
+  width: 38.5% !important;
+}
+
+.bar-hide {
+  margin-top: 1px;
+  margin-bottom: 1px;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0);
+}
+
+.tp0 {
+  padding: 0;
+}
+
+.taend {
+  text-align: end;
+  margin-left: 15px;
+}
+
+.mw50 {
+  max-width: 50%;
+  margin-left: 30px;
+}
+
+.footer-logo {
+  max-width: 23.8%;
+}
+
+.d-t-d-m {
+  font-size: 27px !important;
+}
+.space-footer {
+  height: 40px;
+}
+
+.s-we-mo {
+  font-size: 22px !important;
+}
+
+/*loading*/
+.loader {
+  color: #ffffff;
+  font-size: 50px;
+  text-indent: -9999em;
+  overflow: hidden;
+  width: 1em;
+  height: 1em;
+  border-radius: 50%;
+  margin: 72px auto;
+  position: relative;
+  -webkit-transform: translateZ(0);
+  -ms-transform: translateZ(0);
+  transform: translateZ(0);
+  -webkit-animation: load6 1.7s infinite ease, round 1.7s infinite ease;
+  animation: load6 1.7s infinite ease, round 1.7s infinite ease;
+}
+@-webkit-keyframes load6 {
+  0% {
+    box-shadow: 0 -0.83em 0 -0.4em, 0 -0.83em 0 -0.42em, 0 -0.83em 0 -0.44em,
+      0 -0.83em 0 -0.46em, 0 -0.83em 0 -0.477em;
+  }
+  5%,
+  95% {
+    box-shadow: 0 -0.83em 0 -0.4em, 0 -0.83em 0 -0.42em, 0 -0.83em 0 -0.44em,
+      0 -0.83em 0 -0.46em, 0 -0.83em 0 -0.477em;
+  }
+  10%,
+  59% {
+    box-shadow: 0 -0.83em 0 -0.4em, -0.087em -0.825em 0 -0.42em,
+      -0.173em -0.812em 0 -0.44em, -0.256em -0.789em 0 -0.46em,
+      -0.297em -0.775em 0 -0.477em;
+  }
+  20% {
+    box-shadow: 0 -0.83em 0 -0.4em, -0.338em -0.758em 0 -0.42em,
+      -0.555em -0.617em 0 -0.44em, -0.671em -0.488em 0 -0.46em,
+      -0.749em -0.34em 0 -0.477em;
+  }
+  38% {
+    box-shadow: 0 -0.83em 0 -0.4em, -0.377em -0.74em 0 -0.42em,
+      -0.645em -0.522em 0 -0.44em, -0.775em -0.297em 0 -0.46em,
+      -0.82em -0.09em 0 -0.477em;
+  }
+  100% {
+    box-shadow: 0 -0.83em 0 -0.4em, 0 -0.83em 0 -0.42em, 0 -0.83em 0 -0.44em,
+      0 -0.83em 0 -0.46em, 0 -0.83em 0 -0.477em;
+  }
+}
+@keyframes load6 {
+  0% {
+    box-shadow: 0 -0.83em 0 -0.4em, 0 -0.83em 0 -0.42em, 0 -0.83em 0 -0.44em,
+      0 -0.83em 0 -0.46em, 0 -0.83em 0 -0.477em;
+  }
+  5%,
+  95% {
+    box-shadow: 0 -0.83em 0 -0.4em, 0 -0.83em 0 -0.42em, 0 -0.83em 0 -0.44em,
+      0 -0.83em 0 -0.46em, 0 -0.83em 0 -0.477em;
+  }
+  10%,
+  59% {
+    box-shadow: 0 -0.83em 0 -0.4em, -0.087em -0.825em 0 -0.42em,
+      -0.173em -0.812em 0 -0.44em, -0.256em -0.789em 0 -0.46em,
+      -0.297em -0.775em 0 -0.477em;
+  }
+  20% {
+    box-shadow: 0 -0.83em 0 -0.4em, -0.338em -0.758em 0 -0.42em,
+      -0.555em -0.617em 0 -0.44em, -0.671em -0.488em 0 -0.46em,
+      -0.749em -0.34em 0 -0.477em;
+  }
+  38% {
+    box-shadow: 0 -0.83em 0 -0.4em, -0.377em -0.74em 0 -0.42em,
+      -0.645em -0.522em 0 -0.44em, -0.775em -0.297em 0 -0.46em,
+      -0.82em -0.09em 0 -0.477em;
+  }
+  100% {
+    box-shadow: 0 -0.83em 0 -0.4em, 0 -0.83em 0 -0.42em, 0 -0.83em 0 -0.44em,
+      0 -0.83em 0 -0.46em, 0 -0.83em 0 -0.477em;
+  }
+}
+@-webkit-keyframes round {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes round {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+/*loading*/
+
+@media screen and (min-height: 1000px) {
+  .contact-section {
+    padding: 305px;
+  }
+}
+
+/*responsive*/
+@media screen and (max-width: 768px) {
+  .s-we-mo {
+    font-size: 19px !important;
+  }
+  .col-p {
+    padding: 20px;
+  }
+  .navbar-brand {
+    left: 0 !important;
+    right: 230px !important;
+  }
+  .fbrands {
+    font-size: 3.2em;
+  }
+  .taend {
+    margin-left: 0 !important;
+    text-align: center !important;
+  }
+  .centerR {
+    text-align: center !important;
+  }
+  .mw50 {
+    margin-left: 0;
+  }
+  .footer-logo {
+    max-width: 70%;
+  }
+  .p-l-35 {
+    padding-left: 35px;
+  }
+  .panel-rrss > li a {
+    font-size: 20px;
+  }
+  .he10vh {
+    height: 500px;
+  }
+  .fbrands,
+  .ffeat {
+    font-size: 27px;
+  }
+  .d-t-d-m {
+    font-size: 24px !important;
+  }
+}
+
+.alert-outline {
+  padding: 5px 9px !important;
+  background: white !important;
+  border-color: red !important;
+  color: red !important;
+}
+
+.alert-outline-info {
+  padding: 5px 9px !important;
+  background: white !important;
+  border-color: #007bff !important;
+  color: #007bff !important;
+}
+
+.close-alert {
+  padding: 7px 15px !important;
+}
+
+.close-alert:focus,
+.close-alert:hover {
+  color: white !important;
+}
+
+.hidden {
+  display: none;
+}
+
+.font-register {
+  font-family: "GothamHTF-Light";
+  font-weight: 100;
+  letter-spacing: 1px;
+}
+
+.btn-send-email {
+  background: #222a3a;
+  border-color: #222a3a;
+  cursor: pointer;
+}
+
+.iframe-media {
+  width: 100%;
+  height: 315px;
+}
+ 
+/*
+####################################################
+M E D I A  Q U E R I E S
+####################################################
+*/
+ 
+/*
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+Bootstrap 4 breakpoints
+*/
+ 
+/* 
+Extra small devices (portrait phones, less than 576px) 
+No media query since this is the default in Bootstrap because it is "mobile first"
+*/
+ 
+ 
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {  
+ 
+}
+ 
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+@media (min-width: 768px) {  
+  .iframe-media {
+    width: 100%;
+    height: 355px;
+  }
+}
+ 
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {  
+  .iframe-media {
+    width: 100%;
+    height: 500px;
+  }
+}
+ 
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {      
+  .iframe-media {
+    width: 100%;
+    height: 600px;
+  }
+}
+

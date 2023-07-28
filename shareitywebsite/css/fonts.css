@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'GothamHTF-Thin';
+  src: url('../fonts/new/GothamHTF-Thin.otf');
+}
+
+@font-face {
+  font-family: 'GothamHTF-Light';
+  src: url('../fonts/new/GothamHTF-Light.otf');
+}
+
+@font-face {
+  font-family: 'GothamHTF-Bold';
+  src: url('../fonts/new/GothamHTF-Bold.otf');
+}
